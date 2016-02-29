@@ -1,7 +1,7 @@
 name: Colorado Custom Carves
 favicon: null
-layout_spectrum: 0.7716011698357761
-typography_spectrum: 0.2973609291948378
+layout_spectrum: 1
+typography_spectrum: 0.71061
 cta:
   domain: null
   bucket: null
