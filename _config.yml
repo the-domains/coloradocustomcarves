@@ -1,19 +1,4 @@
-name: Colorado Custom Carves
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.71061
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#181049'
@@ -25,4 +10,22 @@ color:
   lightness: 0
   saturation: 1
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/82ffdbab-da26-487c-a202-e0ab21ae0157.png
+name: Colorado Custom Carves
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c96e37f-1dbc-4266-a0ce-bec40c237788.png
 purpose: []
